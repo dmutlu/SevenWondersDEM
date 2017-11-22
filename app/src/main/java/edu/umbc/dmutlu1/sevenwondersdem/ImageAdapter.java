@@ -54,4 +54,12 @@ public class ImageAdapter extends BaseAdapter
             R.drawable.wonder5, R.drawable.wonder6,
             R.drawable.wonder7
     };
+
+    // references to our images
+    public static String[] imageDescriptions = {
+            "The Great Firewall of China", "Set from Indiana Jones",
+            "Cristo Redentor", "Machu Picchu",
+            "Mayan Temple", "Coliseum",
+            "Taj Mahal"
+    };
 }
