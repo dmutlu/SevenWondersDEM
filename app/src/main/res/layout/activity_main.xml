@@ -30,7 +30,7 @@
                     android:id="@+id/app_bar_image"
                     android:layout_width="match_parent"
                     android:layout_height="match_parent"
-                    android:src="@mipmap/ic_launcher"
+                    android:src="@drawable/wonder0"
                     android:scaleType="centerCrop"
                     android:contentDescription="@string/app_name"
                     />
@@ -48,7 +48,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:columnWidth="90dp"
-            android:numColumns="2"
+            android:numColumns="3"
             android:verticalSpacing="10dp"
             android:horizontalSpacing="10dp"
             android:stretchMode="columnWidth"
