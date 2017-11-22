@@ -61,5 +61,5 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:visibility="invisible"
-            android:contentDescription="Touch to close"/>
+            android:contentDescription="@string/touch_to_close"/>
 </android.support.design.widget.CoordinatorLayout>
